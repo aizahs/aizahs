@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi I'm Aizah! 👋
+
+
+I'm a second-year computer science student interested in expanding my knowledge.
+
+Connect with me on linkedin! https://www.linkedin.com/in/aizah-sadiq-431276278/
 
 <!--
 **aizahs/aizahs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
