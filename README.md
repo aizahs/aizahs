@@ -1,7 +1,9 @@
 ## Hi I'm Aizah! 👋
 
 
-I'm a second-year computer science student interested in expanding my knowledge.
+I'm a second-year computer science student from Toronto!
+
+I'm interested in creating fun projects and learning new skills.
 
 Connect with me on [linkedin!](https://www.linkedin.com/in/aizah-sadiq-431276278/)
 
